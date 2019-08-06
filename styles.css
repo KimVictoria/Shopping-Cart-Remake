@@ -1,0 +1,50 @@
+.index {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 30px;
+    border: yellow solid 3px;
+    padding: 1px;
+    margin: 10px;
+}
+
+
+.insidecart {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.itemsec,.picturesec {
+    width: 40%;
+    border: 2px yellow solid;
+}
+
+.pricesec {
+    width: 20%;
+    border: 2px yellow solid;
+}
+
+.row {
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    border: 2px black solid;
+    
+}
+
+.imagestuff {
+    width: 50px;
+    height: 50px;
+}
+
+.header {
+    background-image: url("");
+}
+
+body {
+    background-color: lightyellow;
+}
+
+h4:hover {
+    background-color: white;
+}
